@@ -1,0 +1,2 @@
+# Logistic-Regression-ML
+An Octave project that takes a dataset containing the marks of a student in two subjects and whether or not they are admitted to a university. Using this data, a logistic regression algorithm is run and a prediction is made that uses concepts of Logistic Regression and Decision Boundary to predict whether or not a student whose marks are provided as input is admitted to the university or not. A project from Andrew Ng's Machine Learning course on Coursera.
